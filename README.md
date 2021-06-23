@@ -1,3 +1,6 @@
+## BUILDING ECOMMERCE APP USING DJANGO V3.2
+https://github.com/gurnitha/django-ebook-djangomadeeasy-finesauces
+
 Table of Contents
 Introduction
 
@@ -32,8 +35,12 @@ Introduction
         new file:   config/wsgi.py
         new file:   manage.py
 
-2.5 Remote repository
+#### 2.5 Remote repository
 
+	https://github.com/gurnitha/django-ebook-djangomadeeasy-finesauces
+	git remote add origin git@github.com:gurnitha/django-ebook-djangomadeeasy-finesauces.git
+	git branch -M main
+	git push -u origin main
 
 3 Creating listings application
 
