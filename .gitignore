@@ -1,0 +1,15 @@
+venv3932
+_docs
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+.vscode
+static
+media
+env
+local_settings.py
+config/local_settings.py
