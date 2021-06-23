@@ -21,8 +21,7 @@ Introduction
 2.1.1 Running our local development server
 2.2 Updating project settings
 2.3 Initial migration
-2.4 Local repository
-2.5 Remote repository
+#### 2.4 Local repository
 
         new file:   .gitignore
         new file:   README.md
@@ -32,6 +31,9 @@ Introduction
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+2.5 Remote repository
+
 
 3 Creating listings application
 
